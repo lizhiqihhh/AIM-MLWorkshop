@@ -5,5 +5,5 @@ Natural language
 motion analysis
 3D reconstruction
 Tracking
-Modeling
+Animation
 Edit
